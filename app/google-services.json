@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391942552690",
+    "project_id": "pamfirebase-1bd9a",
+    "storage_bucket": "pamfirebase-1bd9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391942552690:android:90a41e4db4f676e52596eb",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQG8d08qEd-y6HBFeMnwXBKl8R4HMlPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
